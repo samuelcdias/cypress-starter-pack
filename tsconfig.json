@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "CommonJS",
+    "lib": ["es5", "dom"],
+    "types": ["cypress", "node", "cypress-localstorage-commands"],
+    "esModuleInterop": true,
+    "allowJs": true
+  },
+  "include": ["**/*.ts"]
+}
