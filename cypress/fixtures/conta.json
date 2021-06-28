@@ -1,6 +1,5 @@
-
-  {
-    "email": "admin@admin.com",
-    "senha": "admin",
-    "obs": "admin"
-  }
+{
+  "email": "admin@admin.com",
+  "senha": "admin",
+  "obs": "admin"
+}
